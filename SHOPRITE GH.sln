@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SHOPRITE GH", "SHOPRITE GH.csproj", "{E07E99C2-1718-4D9C-AEAD-8D474B02D12C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E07E99C2-1718-4D9C-AEAD-8D474B02D12C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E07E99C2-1718-4D9C-AEAD-8D474B02D12C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E07E99C2-1718-4D9C-AEAD-8D474B02D12C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E07E99C2-1718-4D9C-AEAD-8D474B02D12C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BE63071-0FDC-4C96-A00C-EC2D2E57FF0B}
+	EndGlobalSection
+EndGlobal
